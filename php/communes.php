@@ -554,7 +554,7 @@ $communes = array(
   array('id' => '541','code_postal' => '15055','nom' => 'Boudjima','wilaya_id' => '15'),
   array('id' => '542','code_postal' => '15056','nom' => 'Ait Yahia Moussa','wilaya_id' => '15'),
   array('id' => '543','code_postal' => '15057','nom' => 'Souk El Thenine','wilaya_id' => '15'),
-  array('id' => '544','code_postal' => '15058','nom' => 'Ait Khelil','wilaya_id' => '15'),
+  array('id' => '544','code_postal' => '15058','nom' => 'Ait Khelili','wilaya_id' => '15'),
   array('id' => '545','code_postal' => '15059','nom' => 'Sidi Naamane','wilaya_id' => '15'),
   array('id' => '546','code_postal' => '15060','nom' => 'Iboudraren','wilaya_id' => '15'),
   array('id' => '547','code_postal' => '15061','nom' => 'Aghni Goughran','wilaya_id' => '15'),
